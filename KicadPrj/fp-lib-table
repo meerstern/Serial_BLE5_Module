@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name FA238V)(type KiCad)(uri "$(KIPRJMOD)/FA238V.pretty")(options "")(descr ""))
+  (lib (name USBA)(type KiCad)(uri "$(KIPRJMOD)/USBA.pretty")(options "")(descr ""))
+  (lib (name USBHOST)(type KiCad)(uri "$(KIPRJMOD)/USBHOST.pretty")(options "")(descr ""))
+  (lib (name VINDBG)(type KiCad)(uri "$(KIPRJMOD)/VINDBG.pretty")(options "")(descr ""))
+  (lib (name CONPAD)(type KiCad)(uri "$(KISYSMOD)/CONPAD.pretty")(options "")(descr ""))
+  (lib (name ble)(type KiCad)(uri "$(KIPRJMOD)/ble5.pretty")(options "")(descr ""))
+  (lib (name pin)(type KiCad)(uri "$(KIPRJMOD)/PINHEAD.pretty")(options "")(descr ""))
+  (lib (name LED)(type KiCad)(uri ${KIPRJMOD}/LED.pretty)(options "")(descr ""))
+  (lib (name SMD_PUSHSWITCH)(type KiCad)(uri ${KIPRJMOD}/SMD_PUSHSWITCH.pretty)(options "")(descr ""))
+  (lib (name BLE5DevBoard_v1)(type KiCad)(uri D:/01_PCBDesign/03_BreakOut/BLE5DevBoard_v1.2)(options "")(descr ""))
+)
