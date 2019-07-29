@@ -8,7 +8,7 @@ BGX13P module board
   * 3.3Vシリアル通信(UART,初期115200bps)で外部機器からパラメータを設定できます。  
   * 3.3Vシリアル通信はGROVEコネクタでも接続できます。  
   * 基板上からBGX13PすべてのIOにアクセスできます。  
-  * TELEC(技適)認証済 工事設計認証番号 209-J00282
+  * TELEC(技適)認証済 工事設計認証番号 [209-J00282][5]
 
   
 ## 関連情報
@@ -29,5 +29,6 @@ BGX13P module board
 
 [3]: https://service.macnica.co.jp/library/130293 "*3"
 [4]: https://service.macnica.co.jp/library/130269 "*4"
+[5]: https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=209&TC=N&PK=1&FN=190710N209&SN=%94%46%8F%D8&LN=3&R1=*****&R2=***** "*5"
 
 MIT Lisense
