@@ -6,6 +6,7 @@ BGX13P module board
   * メーカ側でBGX13Pの生産終了が告知されたため、22年10月以降は在庫限りです  
   * 22年10月以降の新ロット製作の予定はありません  
   * 新規開発の採用には適しません  
+  * [後継機種][6]への移行を検討してください  
 
 ## 概要 
   * SiliconLabs製BLE5モジュールBGX13Pを搭載した変換基板です。
@@ -36,5 +37,6 @@ BGX13P module board
 [3]: https://service.macnica.co.jp/library/130293 "*3"
 [4]: https://service.macnica.co.jp/library/130269 "*4"
 [5]: https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=209&TC=N&PK=1&FN=190710N209&SN=%94%46%8F%D8&LN=3&R1=*****&R2=***** "*5"
+[6]: https://github.com/meerstern/Serial_BLE5_Module_V2 "*6"
 
 MIT Lisense
