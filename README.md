@@ -17,6 +17,10 @@ BGX13P module board
   * 基板上からBGX13PすべてのIOにアクセスできます。  
   * TELEC(技適)認証済 工事設計認証番号 [209-J00282][5]
 
+
+## 販売サイト
+  * [スイッチサイエンス][7]
+
   
 ## 関連情報
  * [データシート][1]
@@ -38,5 +42,7 @@ BGX13P module board
 [4]: https://service.macnica.co.jp/library/130269 "*4"
 [5]: https://www.tele.soumu.go.jp/giteki/SearchServlet?pageID=jg01_01&PC=209&TC=N&PK=1&FN=190710N209&SN=%94%46%8F%D8&LN=3&R1=*****&R2=***** "*5"
 [6]: https://github.com/meerstern/Serial_BLE5_Module_V2 "*6"
+
+[7]: https://www.switch-science.com/products/5794
 
 MIT Lisense
